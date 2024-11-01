@@ -18,7 +18,8 @@
 ---
 ## **Project Overview**
 ### Main Dashboard
-![image](https://github.com/user-attachments/assets/440b64ba-2b45-4b00-b563-d64b42ad00fa)
+![image](https://github.com/user-attachments/assets/c3bfbd4d-6c51-4823-850a-77511007496f)
+
 
 This project analyzes survey data to provide insights into potential users' preferences, needs, and budget constraints for a renewable energy marketplace. The analysis aims to guide the development of a platform tailored to consumer demands and marketplace trends in the renewable energy sector.
 
