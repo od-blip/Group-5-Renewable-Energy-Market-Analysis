@@ -1,8 +1,6 @@
 
 # **Renewable Energy Marketplace Development Survey Analysis**
 
-## **Project Overview**
-This project analyzes survey data to provide insights into potential users' preferences, needs, and budget constraints for a renewable energy marketplace. The analysis aims to guide the development of a platform tailored to consumer demands and marketplace trends in the renewable energy sector.
 
 ## **Table of Contents**
 1. [Data Cleaning](#data-cleaning)
@@ -13,6 +11,17 @@ This project analyzes survey data to provide insights into potential users' pref
 
 ---
 
+## **Project Overview**
+### Main Dashboard
+![image](https://github.com/user-attachments/assets/440b64ba-2b45-4b00-b563-d64b42ad00fa)
+
+This project analyzes survey data to provide insights into potential users' preferences, needs, and budget constraints for a renewable energy marketplace. The analysis aims to guide the development of a platform tailored to consumer demands and marketplace trends in the renewable energy sector.
+
+### Subsequent Dashboard
+![image](https://github.com/user-attachments/assets/0617b3bd-3ee3-4f15-8df8-597689a33601)
+
+
+---
 ## **Data Cleaning**
 
 ### Steps Taken:
