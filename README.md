@@ -2,7 +2,7 @@
 # **Renewable Energy Marketplace Development Survey Analysis (Group 5)**
 
 ## Contributors:
-- Ifeka Odira Hillary 
+- [Ifeka Odira Hillary](https://github.com/od-blip) 
 - [Adebayo Deborah](https://github.com/Deborah8991?tab=projects)
 - Dr Samuel Israel
 - Convenant Lenu
