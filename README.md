@@ -1,6 +1,11 @@
 
 # **Renewable Energy Marketplace Development Survey Analysis (Group 5)**
 
+## Contributors:
+- Ifeka Odira Hillary 
+- Adebayo Deborah 
+- Dr Samuel Israel
+- Convenant Lenu
 
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
@@ -11,7 +16,6 @@
 6. [Conclusion](#conclusion)
 
 ---
-
 ## **Project Overview**
 ### Main Dashboard
 ![image](https://github.com/user-attachments/assets/440b64ba-2b45-4b00-b563-d64b42ad00fa)
