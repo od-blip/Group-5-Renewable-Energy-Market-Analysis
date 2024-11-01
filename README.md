@@ -3,11 +3,12 @@
 
 
 ## **Table of Contents**
-1. [Data Cleaning](#data-cleaning)
-2. [Data Transformation](#data-transformation)
-3. [Analysis & Visualization](#analysis-and-visualization)
-4. [Key Insights & Recommendations](#key-insights-and-recommendations)
-5. [Conclusion](#conclusion)
+1. [Project Overview](#project-overview)
+2. [Data Cleaning](#data-cleaning)
+3. [Data Transformation](#data-transformation)
+4. [Analysis & Visualization](#analysis-and-visualization)
+5. [Key Insights & Recommendations](#key-insights-and-recommendations)
+6. [Conclusion](#conclusion)
 
 ---
 
