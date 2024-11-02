@@ -4,7 +4,7 @@
 ## Contributors
 - [Ifeka Odira Hillary](https://github.com/od-blip) 
 - [Adebayo Deborah](https://github.com/Deborah8991?tab=projects)
-- Dr Samuel Israel
+- [Dr Samuel Israel](https://github.com/drsam-israel)
 - [Convenant Lenu](https://github.com/Covenant9)
 
 ## **Table of Contents**
