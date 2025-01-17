@@ -1,8 +1,10 @@
 
 # **Renewable Energy Marketplace Development Survey Analysis (Group 5)**
 
+[Demand Forecasting of Renewable Energy Product In Nigeria](https://github.com/od-blip/Renewable-Energy-Product-Demand-Forecasting-Analysis-Group-5-) 
+
 ## Contributors
-- [Ifeka Odira Hillary](https://github.com/od-blip) 
+- [Ifeka Odira Hillary (Lead)](https://github.com/od-blip) 
 - [Adebayo Deborah](https://github.com/Deborah8991?tab=projects)
 - [Dr Samuel Israel](https://github.com/drsam-israel)
 - [Convenant Lenu](https://github.com/Covenant9)
